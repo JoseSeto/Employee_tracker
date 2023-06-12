@@ -10,13 +10,13 @@ Because this application won’t be deployed, you’ll also need to create a wal
 Refer to the Video Submission Guide
 
 Links to an external site. on the Full-Stack Blog for additional guidance on creating a video.
-#User Story
+# User Story
 
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
 
-#Acceptance Criteria
+# Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 WHEN I start the application
@@ -36,7 +36,7 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-#Mock-Up
+# Mock-Up
 
 The following video shows an example of the application being used from the command line:
 Getting Started
